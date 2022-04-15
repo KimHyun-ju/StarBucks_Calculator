@@ -35602,7 +35602,7 @@ A.Bp.prototype={
 ap(){return new A.M2(B.u6,B.m)}}
 A.M2.prototype={
 J(a,b){var s=this,r=null,q=t.aL,p=t.F
-return A.dE(r,A.u_(A.b([A.cc("Sensitivity to caffeine",r,r,r,A.bz(r,r,A.Z(B.e.az(229.5),255,255,255),r,r,r,r,r,r,r,r,15,r,r,B.bD,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.GL(A.b([A.DJ(A.We(A.Yj(A.nL(new A.a6J()),A.nL(new A.a6K()),s.d,new A.a6L(s),B.FA,q),B.L7)),A.DJ(A.We(A.Yj(A.nL(new A.a6N()),A.nL(new A.a6O()),s.d,new A.a6P(s),B.FB,q),B.L9)),A.DJ(A.We(A.Yj(A.nL(new A.a6Q()),A.nL(new A.a6R()),s.d,new A.a6S(s),B.u6,q),B.L5)),A.DJ(A.We(A.Yj(A.nL(new A.a6T()),A.nL(new A.a6U()),s.d,new A.a6M(s),B.FC,q),B.L8))],p),B.aQ,B.fP,B.aH)],p),B.eZ,B.bl,B.aH),r,r,r,r,r,r,r)}}
+return A.dE(r,A.u_(A.b([A.cc("Sensitivity to caffeine",r,r,r,A.bz(r,r,A.Z(B.e.az(229.5),255,255,255),r,r,r,r,r,r,r,r,15,r,r,B.bD,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.GL(A.b([A.DJ(A.We(A.Yj(A.nL(new A.a6J()),A.nL(new A.a6K()),s.d,new A.a6L(s),B.FA,q),B.La)),A.DJ(A.We(A.Yj(A.nL(new A.a6N()),A.nL(new A.a6O()),s.d,new A.a6P(s),B.FB,q),B.L5)),A.DJ(A.We(A.Yj(A.nL(new A.a6Q()),A.nL(new A.a6R()),s.d,new A.a6S(s),B.u6,q),B.L9)),A.DJ(A.We(A.Yj(A.nL(new A.a6T()),A.nL(new A.a6U()),s.d,new A.a6M(s),B.FC,q),B.L7))],p),B.aQ,B.fP,B.aH)],p),B.eZ,B.bl,B.aH),r,r,r,r,r,r,r)}}
 A.a6J.prototype={
 $1(a){return B.k},
 $S:7}
@@ -35723,7 +35723,7 @@ ap(){return new A.P6(new A.jH(B.cp,$.aV()),B.m)}}
 A.P6.prototype={
 J(a,b){var s=null
 A.abk(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.Jc,s)
-return A.dE(s,A.GL(A.b([A.DJ(new A.Dw(new A.a9_(b),s,s,s,A.abk(s,s,s,s,s,s,s,new A.L(130,50),s,s,s,B.fQ,s,s,s,s,B.K_,s),B.G,s,!1,B.La,s))],t.F),B.aQ,B.bl,B.aH),s,s,s,s,s,s,s)}}
+return A.dE(s,A.GL(A.b([A.DJ(new A.Dw(new A.a9_(b),s,s,s,A.abk(s,s,s,s,s,s,s,new A.L(130,50),s,s,s,B.fQ,s,s,s,s,B.K_,s),B.G,s,!1,B.L8,s))],t.F),B.aQ,B.bl,B.aH),s,s,s,s,s,s,s)}}
 A.a9_.prototype={
 $0(){var s,r,q,p,o=this,n=$.lC
 if(n==="Sensor.VerySensitive"){s=$.t2[B.b.bB($.d9,$.bE)]
@@ -68158,12 +68158,12 @@ B.JU=new A.p(!0,B.k,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.L4=new A.dN(B.JE,B.KO,B.Kx,B.In,B.Kp,B.Jx,B.KS,B.IO,B.Jg,B.Kk,B.Ii,B.Kz,B.Kn,B.Kh,B.JU)
 B.uv=new A.xO(1,"longestLine")
 B.ek=new A.p(!0,B.k,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.L5=new A.hE("\ubcf4\ud1b5",null,B.ek,null,null,null,null,null,null)
+B.L5=new A.hE("2",null,B.ek,null,null,null,null,null,null)
 B.L6=new A.hE("StarBucks Caffeine Calculator",null,null,null,null,null,null,null,null)
-B.L7=new A.hE("\uacfc\ubbfc",null,B.ek,null,null,null,null,null,null)
-B.L8=new A.hE("\ub454\uac10",null,B.ek,null,null,null,null,null,null)
-B.L9=new A.hE("\uc608\ubbfc",null,B.ek,null,null,null,null,null,null)
-B.La=new A.hE("Calculation",null,null,null,null,null,null,null,null)
+B.L7=new A.hE("4",null,B.ek,null,null,null,null,null,null)
+B.L8=new A.hE("Calculation",null,null,null,null,null,null,null,null)
+B.L9=new A.hE("3",null,B.ek,null,null,null,null,null,null)
+B.La=new A.hE("1",null,B.ek,null,null,null,null,null,null)
 B.NZ=new A.I0(0,"system")
 B.Lb=new A.xQ(null)
 B.el=new A.xR(0,"clamp")
